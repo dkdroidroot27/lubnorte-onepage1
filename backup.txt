@@ -1,0 +1,146 @@
+ <div class="col-lg-4 col-sm-6 col-6">
+            <a class="portfolio-box">
+              <img class="img-fluid" src="img/clients/aggreko.jpg" alt="logo-aggreko" width="300" height="150">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 col-6">
+            <a class="portfolio-box">
+              <img class="img-fluid" src="img/clients/amaggi.jpg" alt="logo-amaggi" width="300" height="150">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-sm-6 col-6">
+            <a class="portfolio-box">
+              <img class="img-fluid" src="img/clients/ambev.jpg" alt="logo-ambev" width="300" height="150">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-2 col-sm-6 col-6">
+            <a class="portfolio-box">
+              <img class="img-fluid" src="img/clients/bic.jpg" alt="logo-bic">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-2 col-sm-6 col-6">
+            <a class="portfolio-box" >
+              <img class="img-fluid" src="img/clients/midea-carrier.jpg" alt="logo-midea-carrier">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-2 col-sm-6 col-6">
+            <a class="portfolio-box">
+              <img class="img-fluid" src="img/clients/mizu.jpg" alt="logo-mizu">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-2 col-sm-6 col-6">
+            <a class="portfolio-box">
+              <img class="img-fluid" src="img/clients/novamed.jpg" alt="logo-novamed">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-2 col-sm-6 col-6">
+            <a class="portfolio-box">
+              <img class="img-fluid" src="img/clients/oggi.jpg" alt="logo-oggi">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-2 col-sm-6 col-6">
+            <a class="portfolio-box">
+              <img class="img-fluid" src="img/clients/whirlpool.jpg" alt="logo-mizu">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-2 col-sm-6 col-6">
+            <a class="portfolio-box">
+              <img class="img-fluid" src="img/clients/yamaha.jpg" alt="logo-mizu">
+              <div class="portfolio-box-caption">
+                <div class="portfolio-box-caption-content">
+                </div>
+              </div>
+            </a>
+          </div>
+
+
+          tabela para datatables
+
+
+ <table class="table" id="tabela-artigos" style="width: 100%;">
+            <thead>
+              <tr>
+                <th scope="col">Artigos</th>
+                <th scope="col">Data de Postagem</th>
+                <th scope="col"></th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">Purificação de filtros com PURIFILT</th>
+                <th scope="row">10/10/2018</th>
+                <td><button type="button" class=" btn btn-primary">Leia mais sobre</button></td>
+              </tr>
+              <tr>
+                <th scope="row">Purificação de filtros com PURIFILT</th>
+                <th scope="row">09/10/2018</th>
+                <td><button type="button" class=" btn btn-primary">Leia mais sobre</button></td>
+              </tr>
+              <tr>
+                <th scope="row">Purificação de filtros com PURIFILT</th>
+                <th scope="row">08/10/2018</th>
+                <td><button type="button" class=" btn btn-primary">Leia mais sobre</button></td>
+              </tr>
+               <tr>
+                <th scope="row">Purificação de filtros com PURIFILT</th>
+                <th scope="row">10/10/2018</th>
+                <td><button type="button" class=" btn btn-primary">Leia mais sobre</button></td>
+              </tr>
+               <tr>
+                <th scope="row">Purificação de filtros com PURIFILT</th>
+                <th scope="row">10/10/2018</th>
+                <td><button type="button" class=" btn btn-primary">Leia mais sobre</button></td>
+              </tr>
+              <tr>
+                <th scope="row">Purificação de filtros com PURIFILT</th>
+                <th scope="row">10/10/2018</th>
+                <td><button type="button" class=" btn btn-primary">Leia mais sobre</button></td>
+              </tr>
+              <tr>
+                <th scope="row">Purificação de filtros com PURIFILT</th>
+                <th scope="row">09/10/2018</th>
+                <td><button type="button" class=" btn btn-primary">Leia mais sobre</button></td>
+              </tr>
+              <tr>
+                <th scope="row">Purificação de filtros com PURIFILT</th>
+                <th scope="row">08/10/2018</th>
+                <td><button type="button" class=" btn btn-primary">Leia mais sobre</button></td>
+              </tr>
+            </tbody>
+          </table>
